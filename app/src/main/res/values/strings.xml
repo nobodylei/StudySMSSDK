@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudySMSSDK</string>
+    <string name="btn_bind_phone">使用手机号注册</string>
+</resources>
